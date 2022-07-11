@@ -30,7 +30,8 @@ Added comments in HTML and CSS files to clarify and make more readable
 * fixed missing id to make subheading links work correctly
 * consolidated multiple benefit classes into one, making 9 classes to 3
 
-#￼￼Website Images:
+#Website Images:  
+
 https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%201.jpg
 
 https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%202.jpg
