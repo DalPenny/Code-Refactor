@@ -28,8 +28,12 @@ Added comments in HTML and CSS files to clarify and make more readable
 * added semantic tags (header, nav, section, article, aside, footer) and replaced div with the appropriate tag
 * added alt text for images for accessibility 
 * fixed missing id to make subheading links work correctly
+* consolidated benefit class into one 
 
-#￼￼Website Images: ￼https://docs.google.com/document/d/1BlbpaukvUCFTAwEMk-q9fOhSHeHykLQGSKlE4hktrIQ/edit?usp=sharing
+#￼￼Website Images:
+https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%201.jpg
+
+https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%202.jpg
 
 #URL of the GitHub repo: https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor 
 
