@@ -29,9 +29,11 @@ Added comments in HTML and CSS files to clarify and make more readable
 * added alt text for images for accessibility 
 * fixed missing id to make subheading links work correctly
 
-#Website Images:  https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%201.jpg
+#Website Images:  
 
-                  https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%202.jpg
+https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%201.jpg
+
+https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/blob/main/assets/images/website%20image%202.jpg
 
 #URL of the GitHub repo: https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor 
 
