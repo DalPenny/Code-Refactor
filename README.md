@@ -33,4 +33,6 @@ Added comments in HTML and CSS files to clarify and make more readable
 
 #URL of the GitHub repo: https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor 
 
-#URL of Deployed Application: https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor/index.html
+#URL of Deployed Application: https://dalpenny.github.io/Horiseon-Accessibility-Code-Refactor/
+
+
